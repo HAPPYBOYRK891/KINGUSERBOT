@@ -8,7 +8,7 @@
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/WCGKING/KINGUSERBOT",
+    "repository": "https://github.com/HAPPYBOYRK891/KINGUSERBOT",
     "stack": "container",
     "env": {
         "API_ID": {
